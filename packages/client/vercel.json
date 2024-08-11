@@ -1,0 +1,8 @@
+{
+  "projects": [
+    {
+      "src": "client/package.json",
+      "use": "@vercel/next"
+    }
+  ]
+}
